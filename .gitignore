@@ -53,3 +53,4 @@ dkms.conf
 
 # debug information files
 *.dwo
+CS50p.ipynb
